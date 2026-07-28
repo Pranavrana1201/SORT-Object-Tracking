@@ -7,7 +7,6 @@ algorithm, based on the original work by **Alex Bewley** and the paper:
 > Simple Online and Realtime Tracking. *2016 IEEE International Conference on Image Processing (ICIP)*.
 > [Paper link](http://arxiv.org/abs/1602.00763)
 
-Original repository: https://github.com/abewley/sort
 
 ## About this project
 I used Alex Bewley's SORT algorithm and reference implementation as the basis for this project 
